@@ -34,7 +34,7 @@ To run the project notebook, you need to have Python and Jupyter Notebook instal
 - matplotlib
 - seaborn
 - scikit-learn
-- tensorflow
+
 
 You can install these dependencies using pip:
 
@@ -80,7 +80,7 @@ machine_learning_projects/
 The results of the project include:
 - Data exploration and visualization
 - Data preprocessing and augmentation
-- Building and training a Convolutional Neural Network (CNN) model
+- Building and training a ML model
 - Evaluating the model on the test dataset
 - Visualizing the model's performance through accuracy and loss plots
 
